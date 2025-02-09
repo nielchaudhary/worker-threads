@@ -1,7 +1,3 @@
-//create a worker thread
-//worker thread sends the alerts / messages to the parent thread.
-// use .on / .postMessage to send it to the parentThread
-
 import express from "express";
 const app = express();
 
